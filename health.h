@@ -1,0 +1,1 @@
+health = char.health;
