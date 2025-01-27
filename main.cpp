@@ -1,5 +1,5 @@
 #include "Warrior.h"
-main function
+void feature();
 int main ()
 {
     
